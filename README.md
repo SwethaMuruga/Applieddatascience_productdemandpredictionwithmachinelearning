@@ -1,1 +1,0 @@
-# Applieddatascience_productdemandpredictionwithmachinelearning
